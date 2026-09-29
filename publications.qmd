@@ -1,0 +1,104 @@
+---
+title: "Publications"
+toc: true
+toc-location: right
+toc-title: "On this page"
+---
+
+Also on [Google Scholar](https://scholar.google.de/citations?user=4p5RiocAAAAJ), [OSF](https://osf.io/8ka2q/), [Web of Science](https://www.webofscience.com/wos/author/record/2934260), and [ResearchGate](https://www.researchgate.net/profile/Kristin-Jankowsky).
+
+## Preprints
+
+::: {.pub-list}
+
+**Jankowsky, K.**, Fuhrmann, M. F., Schroeders, U., & Zimmermann, J. (2026). *A matter of time? The impact of time frames on the self-report assessment of personality pathology.* PsyArXiv. <https://doi.org/10.31234/osf.io/zdbmc_v1>
+
+Grunenberg, E., Schoedel, R., Berkessel, J., Blum, G. S., **Jankowsky, K.**, Kuper, N., … Sust, L. (2026). *Beyond trait prediction: What personality computing can contribute to personality psychology.* PsyArXiv. <https://doi.org/10.31234/osf.io/edwg6_v1>
+
+Speck, K., **Jankowsky, K.**, Zimmermann, J., & Scharf, F. (2026). *Beyond nuances: Measurement non-invariance as a source of item-level predictive gains.* PsyArXiv. <https://doi.org/10.31234/osf.io/9wtay_v1>
+
+Gewehr, E., Viertel, S., Otgaar, H., & **Jankowsky, K.** (2026). *Revisiting the blind implantation paradigm: Robustness of false memory induction under controlled conditions.* PsyArXiv. <https://doi.org/10.31234/osf.io/2587c_v1>
+
+Schroeders, U., Breuer, J., Einsiedler, J., Frank, M., Gnambs, T., Haim, M., … Schönbrodt, F. D. (2026). *A framework for reproducible AI-assisted research in the social and behavioral sciences.* PsyArXiv. <https://doi.org/10.31234/osf.io/xdtqh_v1>
+
+Terry, J., Ross, R. M., Counsell, A., Alter, U., Ellis, J. L., Beribisky, N., … Collins, E. (2026). *The fault in our STARS: International evidence that the Statistics Anxiety Rating Scale and the Revised Mathematics Anxiety Rating Scale overlap.* PsyArXiv. <https://doi.org/10.31234/osf.io/gzucd_v2>
+
+**Jankowsky, K.**, McGrath, R. E., & Olaru, G. (2025). *The Big Three-Mini: Development of a cross-culturally invariant indicator of fundamental character constructs.* PsyArXiv. <https://doi.org/10.31234/osf.io/nketr_v1>
+
+:::
+
+## Peer-reviewed articles
+
+::: {.pub-list}
+
+### 2026
+
+**Jankowsky, K.**, Speck, K., Cummins, J., & Schroeders, U. (2026). How Registered Reports can improve trust in machine learning research. *Nature Human Behaviour.* <https://doi.org/10.1038/s41562-026-02586-2>
+
+Speck, K.-L., **Jankowsky, K.**, Scharf, F., & Schroeders, U. (2026). Beyond the hype: A simulation study evaluating the predictive performance of machine learning models in psychology. *Psychological Methods.* <https://doi.org/10.1037/met0000832>
+
+Miske, O., Abatayo, A. L., Daley, M., … Errington, T. M. (2026). Investigating the reproducibility of the social and behavioural sciences. *Nature, 652*(8108), 126–134. <https://doi.org/10.1038/s41586-026-10203-5> (member of the consortium)
+
+Tyner, A. H., Abatayo, A. L., Daley, M., … Errington, T. M. (2026). Investigating the replicability of the social and behavioural sciences. *Nature, 652*, 143–150. <https://doi.org/10.1038/s41586-025-10078-y> (member of the consortium)
+
+Schroeders, U., Mariss, A., Sauter, J., & **Jankowsky, K.** (2026). Predicting juvenile delinquency and criminal behavior in adulthood using machine learning. *International Journal of Behavioral Development, 50*(1), 126–139. <https://doi.org/10.1177/01650254251339392>
+
+### 2025
+
+**Jankowsky, K.**, Belobrajdic, N., Węziak-Białowolska, D., Białowolski, P., & McGrath, R. E. (2025). Character strengths as universal predictors of health? Using machine learning to examine the predictive validity of character strengths across cultures. *Journal of Positive Psychology*, 1–15. <https://doi.org/10.1080/17439760.2025.2587057>
+
+**Jankowsky, K.**, Zimmermann, J., Jaeger, U., Mestel, R., & Schroeders, U. (2025). First impressions count: Therapists' impression on patients' motivation and helping alliance predicts psychotherapy dropout. *Psychotherapy Research, 35*(8), 1326–1338. <https://doi.org/10.1080/10503307.2024.2411985>
+
+### 2024
+
+Schroeders, U., Loos, A., Wiedemann, S., & **Jankowsky, K.** (2024). Is it just a game? Development and validation of a deductive version of Mastermind as a measure of reasoning ability. *European Journal of Psychological Assessment.* <https://doi.org/10.1027/1015-5759/a000855>
+
+**Jankowsky, K.**, Krakau, L., Schroeders, U., Zwerenz, R., & Beutel, M. E. (2024). Predicting treatment response using machine learning: A Registered Report. *British Journal of Clinical Psychology, 63*, 137–155. <https://doi.org/10.1111/bjc.12452> [Open Science Award 2024 (2nd place), DGPs Section for Clinical Psychology]{.badge-link}
+
+Schroeders, U., Morgenstern, M., **Jankowsky, K.**, & Gnambs, T. (2024). Short-scale construction using meta-analytic ant colony optimization: A demonstration with the Need for Cognition Scale. *European Journal of Psychological Assessment, 40*(5), 376–395. <https://doi.org/10.1027/1015-5759/a000818>
+
+**Jankowsky, K.**, Olaru, G., **Jankowsky, K.**, & Allemand, M. (2024). Structural and inter-individual differentiation in personality across the adult lifespan. *European Journal of Personality, 38*(2), 306–325. <https://doi.org/10.1177/08902070231171736>
+
+### 2023
+
+Terry, J., Ross, R. M., Nagy, T., … Field, A. P. (2023). Data from an international multi-centre study of statistics and mathematics anxieties and related variables in university students (the SMARVUS dataset). *Journal of Open Psychology Data, 11*(1). <https://doi.org/10.5334/jopd.80>
+
+Steger, D., **Jankowsky, K.**, Schroeders, U., & Wilhelm, O. (2022). The road to hell is paved with good intentions: How common practices in scale construction hurt validity. *Assessment, 30*(6), 1811–1824. <https://doi.org/10.1177/10731911221124846>
+
+### 2022
+
+Steger, D., & Schroeders, U. (2024). Predicting lifetime suicide attempts in a community sample of adolescents using machine learning algorithms. *Assessment, 31*(3), 557–573. <https://doi.org/10.1177/10731911231167490>
+
+Wendt, L. P., **Jankowsky, K.**, Zimmermann, J., Schroeders, U., Nolte, T., Fonagy, P., Montague, P. R., & Olaru, G. (2022). Mapping established psychopathology scales onto the Hierarchical Taxonomy of Psychopathology (HiTOP). *Personality and Mental Health, 17*(2), 117–134. <https://doi.org/10.1002/pmh.1566>
+
+**Jankowsky, K.**, & Schroeders, U. (2022). Validation and generalizability of machine learning prediction models on attrition in longitudinal studies. *International Journal of Behavioral Development, 46*(2), 169–176. <https://doi.org/10.1177/01650254221075034>
+
+### 2021 and earlier
+
+Olaru, G., & **Jankowsky, K.** (2021). The HEX-ACO-18: Developing an age-invariant HEXACO short scale using Ant Colony Optimization. *Journal of Personality Assessment, 104*(4), 435–446. <https://doi.org/10.1080/00223891.2021.1934480>
+
+Tierney, W., Hardy, J. H., III, Ebersole, C., … Uhlmann, E. L. (2021). A creative destruction approach to replication: Implicit work and sex morality across cultures. *Journal of Experimental Social Psychology, 93*, 104060. <https://doi.org/10.1016/j.jesp.2020.104060> (member of the Forecasting Collaboration)
+
+Tierney, W., Hardy, J. H., III, Ebersole, C., … Uhlmann, E. L. (2020). Creative destruction in science. *Organizational Behavior and Human Decision Processes, 161*, 291–309. <https://doi.org/10.1016/j.obhdp.2020.07.002> (member of the Forecasting Collaboration)
+
+**Jankowsky, K.**, Olaru, G., & Schroeders, U. (2020). Compiling measurement invariant short scales in cross-cultural personality assessment using Ant Colony Optimization. *European Journal of Personality, 34*, 470–485. <https://doi.org/10.1002/per.2260>
+
+:::
+
+## Preregistrations
+
+::: {.pub-list}
+
+Einsiedler, J., Cummins, J., **Jankowsky, K.**, Hernes, A., Schroeders, U., & Lavelle-Hill, R. (2025). *Assessing the potential for automated article coding and data extraction in the social sciences.* OSF. <https://doi.org/10.17605/OSF.IO/ZDMCN>
+
+Hernes, A., **Jankowsky, K.**, & Schroeders, U. (2025). *A systematic review of machine learning in psychology: Current applications, limitations, and reporting practices.* OSF. <https://doi.org/10.17605/OSF.IO/TA9PB>
+
+:::
+
+## Dissertation
+
+::: {.pub-list}
+
+**Jankowsky, K.** (2024). *Promises and pitfalls of machine learning modeling in psychological research.* Doctoral dissertation, University of Kassel (*summa cum laude*). <https://dx.doi.org/doi:10.17170/kobra-2024050710129>
+
+:::

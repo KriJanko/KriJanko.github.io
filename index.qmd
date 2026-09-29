@@ -1,0 +1,54 @@
+---
+title: "Kristin Jankowsky"
+subtitle: "Psychological Assessment · Machine Learning · Metascience"
+about:
+  id: hero
+  template: trestles
+  image: img/portrait.jpg
+  image-width: 14em
+  image-shape: rounded
+  links:
+    - icon: envelope
+      text: E-mail
+      href: mailto:jankowsky@psychologie.uni-kassel.de
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.de/citations?user=4p5RiocAAAAJ
+    - icon: database
+      text: OSF
+      href: https://osf.io/8ka2q/
+    - icon: github
+      text: GitHub
+      href: https://github.com/KriJanko
+    - icon: cloud
+      text: Bluesky
+      href: https://bsky.app/profile/krijanko.bsky.social
+    - icon: person-badge
+      text: ORCID
+      href: https://orcid.org/0000-0002-4847-0760
+---
+
+::: {#hero}
+
+I am a postdoctoral researcher in **Psychological Assessment** at the [University of Kassel](https://www.uni-kassel.de/fb01/institute/psychologie/psychologische-diagnostik), Germany. My research sits at the intersection of psychometrics, machine learning, and metascience: I study when and why prediction models add value in psychology, how to make AI-assisted research reproducible and replicable, and how to build measurement instruments that work across cultures, ages, and time.
+
+I currently lead the DFG-funded project *Tackling the replication crisis in machine learning modeling* (with Ulrich Schroeders) within the priority programme [META-REP](https://www.meta-rep.uni-muenchen.de/), and I serve as Associate Editor of [*Measurement Instruments for the Social Sciences*](https://www.psychopen.eu/journals/miss/).
+
+## Research interests
+
+- Potential and pitfalls of machine learning in psychological research
+- Reproducibility and replicability of AI-based prediction models
+- Psychometrically optimized short scales (metaheuristics, measurement invariance)
+- Personality assessment and development
+
+[More on my research →](research.qmd){.btn .btn-outline-primary .btn-sm}
+[Publications →](publications.qmd){.btn .btn-outline-primary .btn-sm}
+
+:::
+
+## News
+
+- **09/2026** – Our correspondence *How Registered Reports can improve trust in machine learning research* is out in [*Nature Human Behaviour*](https://doi.org/10.1038/s41562-026-02586-2).
+- **09/2026** – Talk at the 54th DGPs Congress in Luxembourg: *Faking human? Detecting AI agents in online survey responses*.
+- **08/2026** – New preprint: [*A matter of time? The impact of time frames on the self-report assessment of personality pathology*](https://doi.org/10.31234/osf.io/zdbmc_v1).
+- **WiSe 2026/27** – New master's seminar *AI in Psychometrics* (Advanced Psychological Assessment) at the University of Kassel.

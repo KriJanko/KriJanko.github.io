@@ -1,0 +1,70 @@
+/*-- scss:defaults --*/
+$font-family-sans-serif: "Source Sans 3", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+$primary: #2a5d84;
+$link-color: #2a5d84;
+$body-color: #2b2b2b;
+$navbar-bg: #ffffff;
+$navbar-fg: #2b2b2b;
+$font-size-root: 17px;
+
+/*-- scss:rules --*/
+.navbar {
+  border-bottom: 1px solid #e6e6e6;
+}
+.navbar-brand {
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+h1, h2, h3 {
+  font-weight: 600;
+  color: #1f3f5a;
+}
+h2 {
+  margin-top: 2rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid #e6e6e6;
+}
+.about-image {
+  border-radius: 8px;
+}
+.pub-list p, .talk-list p {
+  margin-bottom: 0.9rem;
+  padding-left: 2em;
+  text-indent: -2em;
+}
+.cv-table td:first-child {
+  white-space: nowrap;
+  color: #666;
+  width: 11em;
+}
+.cv-table td {
+  vertical-align: top;
+}
+.badge-link {
+  display: inline-block;
+  font-size: 0.8em;
+  padding: 0.1em 0.5em;
+  border: 1px solid $primary;
+  border-radius: 4px;
+  margin-left: 0.3em;
+  text-decoration: none;
+}
+.focus-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.2rem;
+}
+.focus-card {
+  border: 1px solid #e6e6e6;
+  border-radius: 8px;
+  padding: 1rem 1.2rem;
+  background: #fafbfc;
+}
+.focus-card h3 {
+  margin-top: 0;
+  font-size: 1.1rem;
+}
+.nav-footer {
+  border-top: 1px solid #e6e6e6;
+  font-size: 0.9rem;
+}

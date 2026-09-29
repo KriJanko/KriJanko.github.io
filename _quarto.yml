@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Kristin Jankowsky"
+  description: "Kristin Jankowsky – psychological assessment, machine learning, and metascience. University of Kassel."
+  site-url: https://krijanko.github.io   # TODO: replace with final URL (or custom domain)
+  favicon: img/favicon.png
+  open-graph: true
+  navbar:
+    background: light
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching & Supervision
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: envelope
+        href: mailto:jankowsky@psychologie.uni-kassel.de
+        aria-label: E-mail
+      - icon: github
+        href: https://github.com/KriJanko
+        aria-label: GitHub
+      - icon: mortarboard-fill
+        href: https://scholar.google.de/citations?user=4p5RiocAAAAJ
+        aria-label: Google Scholar
+  page-footer:
+    left: "© 2026 Kristin Jankowsky"
+    center: "[Imprint & Privacy](imprint.qmd)"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: false
+    link-external-newwindow: true
+    smooth-scroll: true
+    lang: en

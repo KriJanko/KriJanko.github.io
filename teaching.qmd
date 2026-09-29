@@ -1,0 +1,56 @@
+---
+title: "Teaching & Supervision"
+toc: true
+toc-location: right
+toc-title: "On this page"
+---
+
+I have been teaching in the B.Sc. and M.Sc. programmes in Psychology and Clinical Psychology & Psychotherapy at the University of Kassel since 2018, with a focus on psychological assessment, test construction, research methods, and – increasingly – the use of artificial intelligence in psychometrics. In 2024, I received teaching development funding (QSL) to redesign the clinical assessment seminar.
+
+## Courses
+
+| Term | Course | Topics |
+|:--|:--|:--|
+| WiSe 2026/27 | **Psychological Assessment** <br>*Lecture · M.Sc. Psychology & M.Sc. Clinical Psychology and Psychotherapy* | Test-theoretical models; the assessment process and clinical judgment; measuring change |
+| WiSe 2026/27 | **Advanced Psychological Assessment: AI in Psychometrics** <br>*Seminar · M.Sc. Psychology* | Artificial intelligence in test development and psychological assessment |
+| SoSe 2026 | **Advanced Research Design and Statistical Modeling: Causal Inference** <br>*Lecture & seminar · M.Sc. Psychology & M.Sc. Clinical Psychology and Psychotherapy* | Directed acyclic graphs; potential outcomes framework; handling confounding |
+| SoSe 2021, 2023, 2024, 2026 | **Personality and Performance Tests in Clinical Contexts** <br>*4 seminars · B.Sc. Psychology* | Administering and evaluating tests; categorical vs. dimensional assessment of mental disorders; writing assessment reports |
+| WiSe 2022/23 – 2025/26 | **Advanced Seminar in Assessment** <br>*4 seminars · M.Sc. Clinical Psychology and Psychotherapy* | Intake interviews; suicidality; malingering; dimensional and categorical diagnosis; individual feedback during therapy |
+| SoSe 2019 (2×), WiSe 2025/26 | **Test and Questionnaire Construction** <br>*3 seminars · B.Sc. Psychology* | Psychometric foundations and test theories; developing, administering, and analysing questionnaires; quality criteria |
+| WiSe 2024/25, SoSe 2025 | **Empirical Research Project (Assessment / Personality)** <br>*Research-oriented practical · B.Sc. Psychology* | Planning, conducting, and analysing own empirical studies; data analysis in R; scientific reporting |
+| WiSe 2022/23 | **Evaluation and Intervention Research** <br>*Seminar · M.Sc. Psychology & M.Sc. Clinical Psychology and Psychotherapy* | Extensions of the general linear model; evaluation designs; measuring effectiveness and change |
+| SoSe 2021 (2×), WiSe 2021/22 (2×) | **Collecting and Analysing Qualitative Data in Psychology** <br>*4 seminars · B.Sc. Psychology* | Qualitative data collection and analysis; quality criteria; open science and replication in qualitative research |
+| WiSe 2021/22 | **Advanced Psychological Assessment** <br>*Seminar · M.Sc. Psychology* | The replication crisis in psychological research |
+| WiSe 2018/19 (3×), WiSe 2020/21 (2×) | **Interview and Observation** <br>*5 seminars · B.Sc. Psychology* | Structured interviews and behavioural observation; conversation skills; judgment in the assessment process |
+
+: {.cv-table tbl-colwidths="[18,42,40]"}
+
+## Doctoral supervision
+
+- **Alan Hernes** (since 2025) – *Tackling the replication crisis in machine learning modeling* (DFG project within META-REP, co-supervised with Ulrich Schroeders)
+
+## Supervised theses
+
+I am happy to supervise bachelor's and master's theses on machine learning in psychology, scale construction and measurement invariance, personality (pathology) assessment, and metascience. Students with their own ideas in these areas are welcome to get in touch. Selected theses I have supervised:
+
+- **Marie Regel** – Attitudes towards psychotherapy: The role of disorder-specific and contextual factors in evaluating psychotherapeutic care
+- **Elisabeth Armstroff** – From symptom to identity: Development and validation of the Individual Neurodivergence Framing Scale (NFS)
+- **Fiona Scheffler** – The impact of careless responding on measurement invariance testing: A simulation study
+- **Antonia Waurig** – The effect of neglecting nested data structures on predictive performance in machine learning
+- **Maria Kießler** – Time to divorce: A survival analysis of demographic, psychological, and contextual predictors in the HILDA survey
+- **Maybrit Fuhrmann** – A matter of time? The impact of time frames on the assessment and prevalence of personality disorders
+- **Frauke Langhein** – Questioning sample size recommendations in rare-events logistic regressions: A simulation study
+- **Hanne Bröcker** – Congruence effects of parent- and adolescent-reported strengths and difficulties
+- **Alan Hernes** – Handling missing data in machine learning models in psychology: A simulation study
+- **Hannah Jungmann** – Comparing machine learning algorithms for the prediction of physical and mental health in Australian adults
+- **Sarah Viertel** – Blind implantation put to the test: Replication of "A new method to implant false autobiographical memories"
+- **Wiebke Romanus** – Predicting life outcomes using nuances of personality pathology
+- **Paul Petzold** – Predicting alcohol and substance dependence: A comparative study of machine learning methods
+- **Svenja Seuffert** – The incremental predictive validity of primal world beliefs over personality traits on psychological well-being, health-related, and environmental behavior
+- **Greta Holst** – When the going gets tough, the tough get going? Resilience against mental health decline in young adults during the COVID-19 pandemic
+- **Nico Belobrajdic** – Revisiting the reciprocal effects model: Investigating the longitudinal relations between academic self-concept and achievement using a continuous-time meta-analysis
+- **Antonia Mariß** – Predicting deviant behaviors in adolescents using machine learning algorithms
+- **Clara Korn** – A specification curve analysis to study the effects of social media use on adolescent mental health
+- **Felix Kiwitt** – Compiling measurement invariant personality scales across self and other ratings using Ant Colony Optimization
+- **Christian Bahr** – Predicting sample attrition in the German Family Panel pairfam using machine learning
+- **Saskia Freier** – Situational judgment tests as an alternative approach to personality assessment for predicting counterproductive work behavior

@@ -1,0 +1,107 @@
+---
+title: "Curriculum Vitae"
+toc: true
+toc-location: right
+toc-title: "On this page"
+---
+
+## Academic positions
+
+| | |
+|:--|:--|
+| since 10/2018 | **Postdoctoral researcher / research associate**, Psychological Assessment (Prof. Dr. Ulrich Schroeders), University of Kassel |
+| 11/2023 – 08/2024 | **Item development for the digital TestAS** (core module *Mathematical equations*), Society for Academic Study Preparation and Test Development (g.a.s.t.) – part-time |
+| 10/2022 – 04/2023 | **Research associate (interim)**, Psychological Research Methods, University of Kassel |
+| 11/2017 – 09/2018 | **Online tutor**, FernUniversität in Hagen – Moodle-based preparation and support course for bachelor's theses in B.Sc. Psychology |
+| 10/2017 – 01/2018 | **Tutor**, University of Kassel – tutorial accompanying the master's lecture *Psychological Assessment* |
+| 06/2017 – 07/2017 | **Tutor**, University of Kassel – support of bachelor students in their empirical research projects (study design / data analysis in R) |
+| 11/2016 – 03/2018 | **Research internship**, FernUniversität in Hagen, Community Psychology – coding of qualitative survey data |
+| 01/2016 – 03/2016 | **Research internship**, FernUniversität in Hagen, Work and Organizational Psychology – DFG project on self-presentation in selection situations |
+
+: {.cv-table}
+
+## Education
+
+| | |
+|:--|:--|
+| since 10/2025 | **M.Sc. Data Analytics** (part-time continuing education programme), Justus Liebig University Giessen |
+| 10/2018 – 04/2024 | **Dr. rer. nat. (Psychology)**, University of Kassel – *Promises and pitfalls of machine learning modeling in psychological research* (*summa cum laude*) · [Full text](https://dx.doi.org/doi:10.17170/kobra-2024050710129) |
+| 10/2016 – 09/2018 | **M.Sc. Psychology**, University of Kassel – Thesis: *Developing a short version of the IPIP-NEO accounting for measurement invariance across countries* |
+| 04/2013 – 06/2016 | **B.Sc. Psychology**, FernUniversität in Hagen – focus on work and organizational psychology |
+| 10/2011 – 10/2014 | **B.A. Sociology**, University of Göttingen – minor: economic and social psychology |
+
+: {.cv-table}
+
+## Awards
+
+| | |
+|:--|:--|
+| 2024 | **Open Science Award** (2nd place) of the DGPs Section for Clinical Psychology and Psychotherapy for *Predicting treatment response using machine learning: A Registered Report* |
+| 2019 | **Pearson Award** for an outstanding master's thesis in psychological assessment (DGPs Section for Personality Psychology and Psychological Assessment, DPPD) |
+
+: {.cv-table}
+
+## Grants and funded projects
+
+| | |
+|:--|:--|
+| 01/2026 – 01/2027 | **University of Kassel, Central Research Funding** – *Reproducibility and replicability of AI-based prediction models in the social sciences* (€ 47,501) |
+| 01/2025 – 01/2028 | **DFG** – *Tackling the replication crisis in machine learning modeling* (with Prof. Dr. Ulrich Schroeders), second funding round of the priority programme *META-REP: A meta-scientific programme to analyse and optimise replicability in the behavioural, social, and cognitive sciences* (€ 317,889) |
+| 11/2024 – 11/2025 | **University of Kassel, QSL teaching development funding** – Redesign of the seminar *Personality and performance tests in clinical contexts* (€ 11,278) |
+| 08/2023 – 08/2024 | **University of Kassel, Central Research Funding** – *Pitfalls in the validation of machine learning models in psychological research* (€ 9,672) |
+| since 2023 | Member of the DFG-funded [Personality Computing Network (PCN)](https://www.personalitycomputing.net/who-we-are) |
+
+: {.cv-table}
+
+## Editorial work and reviewing
+
+**Associate Editor**, [*Measurement Instruments for the Social Sciences*](https://www.psychopen.eu/journals/miss/) (since 09/2025)
+
+**Ad-hoc reviewer** for American Journal of Preventive Medicine, Archives of Public Health, Assessment, Behaviour Research and Therapy, BMC Public Health, BMC Psychiatry, BMC Psychology, European Child & Adolescent Psychiatry, European Journal of Personality, European Journal of Psychological Assessment, Journal of Child Psychology and Psychiatry, Journal of Consumer Affairs, Journal of Financial Counseling and Planning, Journal of Intelligence, Journal of Personality Assessment, Nordic Journal of Psychiatry, Peer Community in Psychology, Psychological Assessment, Psychological Medicine, Psychological Test Adaptation and Development, Psychotherapy Research, Thinking Skills and Creativity, and Zeitschrift für Psychologie.
+
+## Academic service
+
+| | |
+|:--|:--|
+| 09/2025 | Member of the organizing and programme committee, 18th Biennial Conference of the DGPs Section for Personality Psychology and Psychological Assessment (DPPD), Kassel |
+| since 04/2022 | Elected representative of the academic mid-level staff on the board of the Institute of Psychology, University of Kassel |
+
+: {.cv-table}
+
+**Memberships:** German Psychological Society (DGPs) – Sections for Methods and Evaluation; Personality Psychology and Psychological Assessment (DPPD); Clinical Psychology and Psychotherapy.
+
+## Conference talks
+
+::: {.talk-list}
+
+**Jankowsky, K.**, Wendt, L. P., Zimmermann, J., & Schroeders, U. (2026). *Faking human? Detecting AI agents in online survey responses.* 54th Congress of the German Psychological Society (DGPs), Luxembourg City, Luxembourg.
+
+Gómez Penedo, J. M., Rubel, J., Pena Loray, J. S., **Jankowsky, K.**, Flückiger, C., Eberhardt, S., & Lutz, W. (2026). *The Session-specific Risk Index (SRI) in psychotherapy: Developing longitudinal session-by-session machine learning algorithms to predict the likelihood of non-response to treatment.* Annual Congress of the European Association for Behaviour and Cognitive Therapies (EABCT), Brussels, Belgium.
+
+Scharf, F., **Jankowsky, K.**, Speck, K., Jansen, K., & Schroeders, U. (2025). *Old data + machine learning = new knowledge? When can we expect strong predictive performance in psychology?* 17th Meeting of the DGPs Section for Methods and Evaluation, Berlin, Germany.
+
+**Jankowsky, K.**, Jansen, K., & Scharf, F. (2025). *The potential and limits of machine learning in rare event classifications.* 17th Meeting of the DGPs Section for Methods and Evaluation, Berlin, Germany.
+
+Hernes, A., **Jankowsky, K.**, & Schroeders, U. (2025). *Beyond the hype: A systematic review of supervised machine learning in psychological research.* 18th Conference on Personality and Psychological Assessment (DPPD), Kassel, Germany.
+
+**Jankowsky, K.**, Fuhrmann, M., Schroeders, U., & Zimmermann, J. (2025). *A matter of time? The impact of time frames on personality disorder assessment.* 18th Conference on Personality and Psychological Assessment (DPPD), Kassel, Germany.
+
+**Jankowsky, K.**, Speck, K.-L., Scharf, F., & Schroeders, U. (2024). *Do complex ML models unravel complex relations in common psychological data sets?* 53rd Congress of the German Psychological Society (DGPs), Vienna, Austria.
+
+**Jankowsky, K.**, Zimmermann, J., Jaeger, U., Mestel, R., & Schroeders, U. (2023). *First impressions count: Therapists' impression on patients' motivation and helping alliance predicts psychotherapy dropout.* 17th Conference on Personality and Psychological Assessment (DPPD), Salzburg, Austria.
+
+**Jankowsky, K.** (2023). *The potential of Registered Reports for machine learning modeling in psychological research.* 4th Symposium on Big Data and Research Syntheses in Psychology (focus: Machine Learning & Open Science), Frankfurt, Germany.
+
+**Jankowsky, K.**, Steger, D., & Schroeders, U. (2022). *Predicting suicide attempts in adolescents in the longitudinal Millennium Cohort Study.* 52nd Congress of the German Psychological Society (DGPs), Hildesheim, Germany.
+
+**Jankowsky, K.**, Steger, D., & Schroeders, U. (2021). *Predicting suicide attempts in adolescents using machine learning.* 16th Conference on Personality and Psychological Assessment (DPPD), Ulm, Germany.
+
+Olaru, G., & **Jankowsky, K.** (2021). *The HEX-ACO-18: Developing an age-invariant HEXACO short scale using Ant Colony Optimization.* 16th Conference on Personality and Psychological Assessment (DPPD), Ulm, Germany.
+
+**Jankowsky, K.**, Olaru, G., & Schroeders, U. (2019). *Compiling cross-culturally measurement invariant personality measures using Ant Colony Optimization.* 12th Conference of the International Test Commission (ITC), Luxembourg City, Luxembourg.
+
+**Jankowsky, K.**, Olaru, G., & Schroeders, U. (2019). *Compiling cross-culturally measurement invariant personality measures using Ant Colony Optimization.* 15th Conference on Personality and Psychological Assessment (DPPD), Dresden, Germany. [Slides](https://osf.io/xn7ey/)
+
+Olaru, G., **Jankowsky, K.**, Mussel, P., & Mazziotta, A. (2019). *Situational judgment tests of personality: An evaluation of different response formats and scoring procedures.* 15th Conference on Personality and Psychological Assessment (DPPD), Dresden, Germany. [Slides](https://osf.io/rq698/)
+
+:::

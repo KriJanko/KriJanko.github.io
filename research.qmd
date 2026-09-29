@@ -1,0 +1,61 @@
+---
+title: "Research"
+---
+
+## Focus areas
+
+::: {.focus-grid}
+
+::: {.focus-card}
+### Machine learning in psychological research
+When do complex prediction models actually outperform simple ones in typical psychological data? I use simulation studies and re-analyses of large panel data to map the conditions under which machine learning adds predictive value – and where it does not – and to identify common pitfalls in model validation (e.g., nested data, rare outcomes, leakage).
+:::
+
+::: {.focus-card}
+### Reproducibility of AI-based prediction models
+Prediction models are only useful if they replicate. I work on standards for reporting, preregistration, and Registered Reports for ML studies, on frameworks for reproducible AI-assisted research, and on systematic reviews of current practices in the field.
+:::
+
+::: {.focus-card}
+### Psychometric short scales
+Short scales should be short *and* fair. I develop and apply metaheuristic item-selection procedures (Ant Colony Optimization) to build measurement-invariant short forms across countries, age groups, and rater perspectives, and study how construction practices affect validity.
+:::
+
+::: {.focus-card}
+### Personality assessment and development
+Structure and differentiation of personality across the lifespan, assessment of personality pathology (time frames, dimensional models), and personality computing – what AI-based trait prediction can and cannot contribute to personality psychology.
+:::
+
+:::
+
+## Current projects
+
+**Tackling the replication crisis in machine learning modeling** (DFG, 2025–2028, with Ulrich Schroeders)
+: Project within the second funding round of the DFG priority programme [META-REP: A meta-scientific programme to analyse and optimise replicability in the behavioural, social, and cognitive sciences](https://www.meta-rep.uni-muenchen.de/). We examine the replicability of machine learning findings in psychology, develop guidelines for reporting and preregistering ML models, and test them empirically. PhD student: Alan Hernes.
+
+**Reproducibility and replicability of AI-based prediction models in the social sciences** (University of Kassel, Central Research Funding, 2026–2027)
+: Empirical study of how well published AI-based prediction models in the social sciences can be reproduced and replicated, and which factors explain failures.
+
+**Systematic review of machine learning in psychology** (with Alan Hernes & Ulrich Schroeders)
+: PRISMA-preregistered review of current applications, limitations, and reporting practices of supervised machine learning in psychology. [Preregistration](https://doi.org/10.17605/OSF.IO/TA9PB)
+
+**Automated article coding and data extraction with LLMs** (with Julian Einsiedler, Jamie Cummins, Alan Hernes, Ulrich Schroeders & Rosa Lavelle-Hill)
+: Assessing the potential of large language models for automated coding and data extraction in social-science research syntheses. [Preregistration](https://doi.org/10.17605/OSF.IO/ZDMCN)
+
+**Detecting AI agents in online surveys** (with Leon Wendt, Johannes Zimmermann & Ulrich Schroeders)
+: Can AI agents complete online questionnaires in a way that is indistinguishable from human responses – and how can we detect them?
+
+**Personality Computing Network (PCN)**
+: Member of the DFG-funded [Personality Computing Network](https://www.personalitycomputing.net/who-we-are), which brings together personality psychologists and computer scientists working on AI-based assessment of personality.
+
+## Past projects
+
+**Pitfalls in the validation of machine learning models in psychological research** (University of Kassel, Central Research Funding, 2023–2024)
+: Simulation studies on the predictive performance of ML models in psychology and the consequences of common validation errors; see [Speck et al., 2026, *Psychological Methods*](https://doi.org/10.1037/met0000832).
+
+**Promises and pitfalls of machine learning modeling in psychological research** (doctoral dissertation, University of Kassel, 2024, *summa cum laude*)
+: [Full text (KOBRA)](https://dx.doi.org/doi:10.17170/kobra-2024050710129)
+
+## Open science
+
+I share materials, code, and preregistrations on the [Open Science Framework](https://osf.io/8ka2q/). Several of my projects are Registered Reports, and I advocate for Registered Reports as a format for machine learning research – see our [correspondence in *Nature Human Behaviour*](https://doi.org/10.1038/s41562-026-02586-2). In 2024, our Registered Report on predicting treatment response received the Open Science Award (2nd place) of the DGPs Section for Clinical Psychology and Psychotherapy.
