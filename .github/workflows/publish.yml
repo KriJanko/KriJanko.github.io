@@ -1,4 +1,3 @@
-yaml
 on:
   workflow_dispatch:
   push:
