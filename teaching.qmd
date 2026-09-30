@@ -31,26 +31,11 @@ I have been teaching in the B.Sc. and M.Sc. programmes in Psychology and Clinica
 
 ## Supervised theses
 
-I am happy to supervise bachelor's and master's theses on machine learning in psychology, scale construction and measurement invariance, personality (pathology) assessment, and metascience. Students with their own ideas in these areas are welcome to get in touch. Selected theses I have supervised:
+Since 2019, I have supervised more than 20 bachelor's and master's theses in psychology, most of them empirical or simulation-based projects analysed in R. Typical topics include:
 
-- **Marie Regel** – Attitudes towards psychotherapy: The role of disorder-specific and contextual factors in evaluating psychotherapeutic care
-- **Elisabeth Armstroff** – From symptom to identity: Development and validation of the Individual Neurodivergence Framing Scale (NFS)
-- **Fiona Scheffler** – The impact of careless responding on measurement invariance testing: A simulation study
-- **Antonia Waurig** – The effect of neglecting nested data structures on predictive performance in machine learning
-- **Maria Kießler** – Time to divorce: A survival analysis of demographic, psychological, and contextual predictors in the HILDA survey
-- **Maybrit Fuhrmann** – A matter of time? The impact of time frames on the assessment and prevalence of personality disorders
-- **Frauke Langhein** – Questioning sample size recommendations in rare-events logistic regressions: A simulation study
-- **Hanne Bröcker** – Congruence effects of parent- and adolescent-reported strengths and difficulties
-- **Alan Hernes** – Handling missing data in machine learning models in psychology: A simulation study
-- **Hannah Jungmann** – Comparing machine learning algorithms for the prediction of physical and mental health in Australian adults
-- **Sarah Viertel** – Blind implantation put to the test: Replication of "A new method to implant false autobiographical memories"
-- **Wiebke Romanus** – Predicting life outcomes using nuances of personality pathology
-- **Paul Petzold** – Predicting alcohol and substance dependence: A comparative study of machine learning methods
-- **Svenja Seuffert** – The incremental predictive validity of primal world beliefs over personality traits on psychological well-being, health-related, and environmental behavior
-- **Greta Holst** – When the going gets tough, the tough get going? Resilience against mental health decline in young adults during the COVID-19 pandemic
-- **Nico Belobrajdic** – Revisiting the reciprocal effects model: Investigating the longitudinal relations between academic self-concept and achievement using a continuous-time meta-analysis
-- **Antonia Mariß** – Predicting deviant behaviors in adolescents using machine learning algorithms
-- **Clara Korn** – A specification curve analysis to study the effects of social media use on adolescent mental health
-- **Felix Kiwitt** – Compiling measurement invariant personality scales across self and other ratings using Ant Colony Optimization
-- **Christian Bahr** – Predicting sample attrition in the German Family Panel pairfam using machine learning
-- **Saskia Freier** – Situational judgment tests as an alternative approach to personality assessment for predicting counterproductive work behavior
+- **Machine learning in psychology** – predicting mental health, deviant behaviour, substance dependence, or panel attrition from large survey data; handling missing data and nested data structures in prediction models; predictive validity of personality nuances
+- **Scale construction and measurement invariance** – developing and validating new questionnaires; measurement-invariant short scales across countries and rater perspectives (Ant Colony Optimization); effects of careless responding on invariance testing; situational judgment tests
+- **Personality and clinical assessment** – time frames in the assessment of personality disorders; attitudes towards psychotherapy; parent–adolescent agreement on strengths and difficulties; resilience and well-being
+- **Methods and metascience** – simulation studies on rare-events logistic regression; specification curve analysis; continuous-time meta-analysis; direct replications of published experiments
+
+I am happy to supervise theses on machine learning in psychology, scale construction and measurement invariance, personality (pathology) assessment, and metascience. Students with their own ideas in these areas are welcome to get in touch.
