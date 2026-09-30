@@ -25,7 +25,7 @@ toc-title: "On this page"
 | | |
 |:--|:--|
 | since 10/2025 | **M.Sc. Data Analytics** (part-time continuing education programme), Justus Liebig University Giessen |
-| 10/2018 – 04/2024 | **Dr. rer. nat. (Psychology)**, University of Kassel – *Promises and pitfalls of machine learning modeling in psychological research* (*summa cum laude*) · [Full text](https://dx.doi.org/doi:10.17170/kobra-2024050710129) |
+| 10/2018 – 04/2024 | **Dr. phil. (Psychology)**, University of Kassel – *Promises and pitfalls of machine learning modeling in psychological research* (*summa cum laude*) · [Full text](https://dx.doi.org/doi:10.17170/kobra-2024050710129) |
 | 10/2016 – 09/2018 | **M.Sc. Psychology**, University of Kassel – Thesis: *Developing a short version of the IPIP-NEO accounting for measurement invariance across countries* |
 | 04/2013 – 06/2016 | **B.Sc. Psychology**, FernUniversität in Hagen – focus on work and organizational psychology |
 | 10/2011 – 10/2014 | **B.A. Sociology**, University of Göttingen – minor: economic and social psychology |
